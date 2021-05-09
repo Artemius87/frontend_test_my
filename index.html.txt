@@ -1,2 +1,2 @@
  первый коммит
- second commit  - go
+ second commit  -  сделанная на Github
